@@ -3,25 +3,6 @@
 
 ---
 
-## Doküman Başlığı
-
-| Alan | Bilgi |
-|---|---|
-| **Oyun Adı** | **Trove Clone** — Voxel Tabanlı Aksiyon-RPG |
-| **Takım Adı** | *[Takım adınızı buraya yazın]* |
-| **Hedef Motor / Çatı** | Python 3.12 + **Ursina 8.3.0** (Panda3D render altyapısı) |
-
-**Takım Üyeleri ve Birincil Rolleri** *(roller projedeki gerçek modüllere göre dağıtılmıştır)*
-
-| Üye | Birincil Rol | Sorumlu olduğu kod |
-|---|---|---|
-| Arif Can Ekici | Çekirdek Döngü & Voxel Motoru | `core/world`, `core/chunk`, `main` (akış, streaming, fizik) |
-| *[İsim Soyisim]* | Prosedürel Üretim Programcısı | `core/generation`, `core/dungeon`, `core/structures` |
-| *[İsim Soyisim]* | Render & Meshing Programcısı | `render/mesher`, `render/chunk_renderer` |
-| *[İsim Soyisim]* | Oynanış Sistemleri (Savaş/AI/Loot) | `systems/`, `entities/` |
-| *[İsim Soyisim]* | UI/UX & Kalıcılık (Persistence) | `ui/`, `persistence/save_manager` |
-
-> Not: Kod tabanı ~7.000 satır Python'dur (40+ modül). Roller örtüşse de her üye en az bir katmanın birincil sahibidir.
 
 ---
 
