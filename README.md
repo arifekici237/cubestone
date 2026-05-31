@@ -1,6 +1,7 @@
-# Trove Clone
+# Cubestone
 
-Ursina ile geliştirilmiş voxel oyunu prototipi.
+Ursina (Python) ile geliştirilmiş, voxel tabanlı birinci şahıs aksiyon-RPG.
+Prosedürel dünya, zindanlar, sınıflar, savaş ve loot içerir.
 
 ## Kurulum
 

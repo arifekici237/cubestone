@@ -1,5 +1,5 @@
 """
-Above-ground structure generator — Trove-style buildings.
+Above-ground structure generator — Cubestone buildings.
 All structures use only vanilla block IDs (1-8).
 """
 import random

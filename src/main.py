@@ -53,7 +53,7 @@ def main() -> None:
     settings = load_settings()
 
     app = Ursina()
-    window.title = 'Trove Clone'
+    window.title = 'Cubestone'
     window.color = color.rgb(85, 155, 225)   # brighter sky blue
 
     # ── Ses: SFX önbelleğini yükle + döngülü fon müziği başlat ─────────
