@@ -1,0 +1,4 @@
+ursina==8.3.0
+opensimplex==0.4.5.1
+numpy==2.4.6
+pytest==9.0.3

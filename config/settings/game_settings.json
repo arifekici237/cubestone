@@ -1,0 +1,8 @@
+{
+  "chunk_size": 16,
+  "render_distance": 4,
+  "seed": 42,
+  "max_height": 128,
+  "base_terrain_height": 36,
+  "terrain_amplitude": 18
+}

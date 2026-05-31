@@ -1,0 +1,20 @@
+{
+  "knight": {
+    "name": "Knight",
+    "base_health": 150,
+    "base_damage": 20,
+    "description": "Yüksek sağlıklı tank karakteri."
+  },
+  "gunslinger": {
+    "name": "Gunslinger",
+    "base_health": 100,
+    "base_damage": 35,
+    "description": "Yüksek hasarlı uzak mesafe karakteri."
+  },
+  "dracolyte": {
+    "name": "Dracolyte",
+    "base_health": 120,
+    "base_damage": 28,
+    "description": "Ateş büyülerine hakim sihirbaz."
+  }
+}
