@@ -8,16 +8,10 @@
 | Alan | Bilgi |
 |---|---|
 | **Oyun Adı** | **Cubestone** — Voxel Tabanlı Aksiyon-RPG |
-| **Takım Adı** | Cubestone |
+
 | **Hedef Motor / Çatı** | Python 3.12 + **Ursina 8.3.0** (Panda3D render altyapısı) |
 
-**Takım Üyeleri, Numaraları ve Birincil Rolleri** *(roller projedeki gerçek modüllere göre dağıtılmıştır)*
 
-| Üye | Öğrenci No | Birincil Rol | Sorumlu olduğu kod |
-|---|---|---|---|
-| **Arif Can Ekici** | 2111504014 | Çekirdek Motor, Fizik & Kalıcılık | `core/world`, `core/chunk`, `main` (oyun döngüsü, chunk streaming, özel fizik), `persistence/save_manager` |
-| **Hazan Ezgi Erçin** | 2311504299 | Prosedürel Üretim & Render | `core/generation`, `core/dungeon`, `core/structures`, `render/mesher`, `render/chunk_renderer` |
-| **Özge Yeşilsancak** | 2211504044 | Oynanış Sistemleri, UI & Ses | `systems/` (savaş, AI, loot, crafting, yetenek, ekipman), `entities/`, `ui/`, ses (`ui/sfx`, `tools/gen_sounds`) |
 
 > Not: Kod tabanı ~7.000 satır Python'dur (40+ modül). Roller örtüşse de her üye en az bir alt sistemin birincil sahibidir; tüm üyeler ortak entegrasyon, hata ayıklama ve testlere katkı vermiştir.
 
